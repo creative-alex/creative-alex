@@ -35,7 +35,6 @@ I love experimenting with new ideas, and I'm working towards my first game. 🎮
 | Project | What it is |
 | :---: | :--- |
 | [![MyGameHub](https://img.shields.io/badge/MyGameHub-a855f7?style=for-the-badge)](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
-| [![LivroDePonto](https://img.shields.io/badge/LivroDePonto-22d3ee?style=for-the-badge)](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
 | [![TaskManager](https://img.shields.io/badge/TaskManager-f472b6?style=for-the-badge)](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
 | [![Portfolio](https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge)](https://creative-alex.github.io/Portfolio/) | My web portfolio |
 
@@ -45,7 +44,6 @@ I love experimenting with new ideas, and I'm working towards my first game. 🎮
 
 ✅ Portfolio website deployed<br>
 ✅ Task manager with drag & drop<br>
-✅ Full-stack time-tracking app<br>
 🔒 Ship my first game (in progress)
 
 ---
