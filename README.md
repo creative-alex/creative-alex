@@ -10,29 +10,16 @@
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_VISIT-PORTFOLIO-f472b6?style=for-the-badge&labelColor=1f1f2e)](https://creative-alex.github.io/Portfolio/)
 [![Repos](https://img.shields.io/badge/%F0%9F%93%82_BROWSE-REPOSITORIES-facc15?style=for-the-badge&labelColor=1f1f2e)](https://github.com/creative-alex?tab=repositories)
 
-</div>
+---
+
+### 👋 About me
+
+Web developer building apps with **JavaScript** and **Node.js**.<br>
+I love experimenting with new ideas, and I'm working towards my first game. 🎮
 
 ---
 
-## 🕹️ Main menu
-
-*Click a menu item to expand it.*
-
-<details open>
-<summary>🎯 Current quest</summary>
-
-<br>
-
-💻 Building web apps with JavaScript and Node.js<br>
-🧪 Experimenting with new ideas<br>
-🎮 Working towards my first game
-
-</details>
-
-<details>
-<summary>🧰 Skill tree</summary>
-
-<br>
+### 🧰 Tech stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -41,44 +28,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</details>
+---
 
-<details>
-<summary>🗺️ Missions</summary>
-
-<br>
+### 🚀 Projects
 
 | Project | What it is |
-| --- | --- |
-| [🎲 MyGameHub](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
-| [⏱️ LivroDePonto](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
-| [✅ TaskManager](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
-| [🌐 Portfolio](https://creative-alex.github.io/Portfolio/) | My web portfolio |
+| :---: | :--- |
+| [![MyGameHub](https://img.shields.io/badge/MyGameHub-a855f7?style=for-the-badge)](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
+| [![LivroDePonto](https://img.shields.io/badge/LivroDePonto-22d3ee?style=for-the-badge)](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
+| [![TaskManager](https://img.shields.io/badge/TaskManager-f472b6?style=for-the-badge)](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
+| [![Portfolio](https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge)](https://creative-alex.github.io/Portfolio/) | My web portfolio |
 
-</details>
+---
 
-<details>
-<summary>🏆 Achievements</summary>
-
-<br>
+### 🏆 Achievements
 
 ✅ Portfolio website deployed<br>
 ✅ Task manager with drag & drop<br>
 ✅ Full-stack time-tracking app<br>
 🔒 Ship my first game (in progress)
 
-</details>
-
 ---
-
-<div align="center">
 
 *🎯 Current goal: more commits, more levels unlocked.*
 
-</div>
-
-
-## 🐍 Snake game
+### 🐍 Contribution snake
 
 ![snake](https://raw.githubusercontent.com/creative-alex/creative-alex/output/github-snake-dark.svg#gh-dark-mode-only)
 ![snake](https://raw.githubusercontent.com/creative-alex/creative-alex/output/github-snake.svg#gh-light-mode-only)
+
+</div>
