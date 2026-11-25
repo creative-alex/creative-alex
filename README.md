@@ -77,3 +77,8 @@
 
     </div>
     
+
+## 🐍 Snake game
+
+![snake](https://raw.githubusercontent.com/creative-alex/creative-alex/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/creative-alex/creative-alex/output/github-snake.svg#gh-light-mode-only)
