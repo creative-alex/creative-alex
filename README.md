@@ -52,9 +52,4 @@ I love experimenting with new ideas, and I'm working towards my first game. 🎮
 
 *🎯 Current goal: more commits, more levels unlocked.*
 
-### 🐍 Contribution snake
-
-![snake](https://raw.githubusercontent.com/creative-alex/creative-alex/output/github-snake-dark.svg#gh-dark-mode-only)
-![snake](https://raw.githubusercontent.com/creative-alex/creative-alex/output/github-snake.svg#gh-light-mode-only)
-
 </div>
