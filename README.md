@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary>🧰 Skill tree</summary>
+<summary>🧰 Skill tree</summary>
 
 <br>
 
@@ -44,39 +44,39 @@
 </details>
 
 <details>
-  <summary>🗺️ Missions</summary>
+<summary>🗺️ Missions</summary>
 
-  <br>
+<br>
 
-  | Project | What it is |
-  | --- | --- |
-  | [🎲 MyGameHub](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
-  | [⏱️ LivroDePonto](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
-  | [✅ TaskManager](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
-  | [🌐 Portfolio](https://creative-alex.github.io/Portfolio/) | My web portfolio |
+| Project | What it is |
+| --- | --- |
+| [🎲 MyGameHub](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
+| [⏱️ LivroDePonto](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
+| [✅ TaskManager](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
+| [🌐 Portfolio](https://creative-alex.github.io/Portfolio/) | My web portfolio |
 
-  </details>
+</details>
 
-  <details>
-    <summary>🏆 Achievements</summary>
+<details>
+<summary>🏆 Achievements</summary>
 
-    <br>
+<br>
 
-    ✅ Portfolio website deployed<br>
-    ✅ Task manager with drag & drop<br>
-    ✅ Full-stack time-tracking app<br>
-    🔒 Ship my first game (in progress)
+✅ Portfolio website deployed<br>
+✅ Task manager with drag & drop<br>
+✅ Full-stack time-tracking app<br>
+🔒 Ship my first game (in progress)
 
-    </details>
+</details>
 
-    ---
+---
 
-    <div align="center">
+<div align="center">
 
-    *🎯 Current goal: more commits, more levels unlocked.*
+*🎯 Current goal: more commits, more levels unlocked.*
 
-    </div>
-    
+</div>
+
 
 ## 🐍 Snake game
 
