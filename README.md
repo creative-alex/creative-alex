@@ -19,7 +19,7 @@
 *Click a menu item to expand it.*
 
 <details open>
-<summary><b>🎯 Current quest</b>b></summary>summary>
+<summary>🎯 Current quest</summary>
 
 <br>
 
@@ -30,35 +30,35 @@
 </details>
 
 <details>
-  <summary><b>🧰 Skill tree</b>b></summary>summary>
+  <summary>🧰 Skill tree</summary>
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+<details>
+  <summary>🗺️ Missions</summary>
 
   <br>
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  | Project | What it is |
+  | --- | --- |
+  | [🎲 MyGameHub](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
+  | [⏱️ LivroDePonto](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
+  | [✅ TaskManager](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
+  | [🌐 Portfolio](https://creative-alex.github.io/Portfolio/) | My web portfolio |
 
   </details>
 
   <details>
-    <summary><b>🗺️ Missions</b>b></summary>summary>
-
-    <br>
-
-    | Project | What it is |
-    | --- | --- |
-    | [🎲 MyGameHub](https://github.com/creative-alex/MyGameHub) | Game hub web app built with Node.js |
-    | [⏱️ LivroDePonto](https://github.com/creative-alex/LivroDePonto) | Time-tracking app (API + front-end) |
-    | [✅ TaskManager](https://github.com/creative-alex/TaskManager) | Task manager with drag & drop |
-    | [🌐 Portfolio](https://creative-alex.github.io/Portfolio/) | My web portfolio |
-
-    </details>
-
-    <details>
-    <summary><b>🏆 Achievements</b></summary>
+    <summary>🏆 Achievements</summary>
 
     <br>
 
@@ -77,4 +77,3 @@
 
     </div>
     
-</b></summary>
