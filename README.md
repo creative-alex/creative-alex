@@ -33,7 +33,7 @@
 | Projeto | O que é |
 | --- | --- |
 | [🎲 MyGameHub](https://github.com/creative-alex/MyGameHub) | Hub de jogos com servidor Node.js |
-| [📋 Magna-ISO9001](https://github.com/creative-alex/Magna-ISO9001) | Plataforma de gestão ISO 9001 (API + cliente) |
+| [📋 Magna](https://github.com/creative-alex/Magna-ISO9001) | Plataforma de gestão (API + cliente) |
 | [⏱️ LivroDePonto](https://github.com/creative-alex/LivroDePonto) | App de registo de ponto (API + front-end) |
 | [✅ TaskManager](https://github.com/creative-alex/TaskManager) | Gestor de tarefas com drag & drop |
 | [🌐 Portfolio](https://creative-alex.github.io/Portfolio/) | O meu portfólio web |
